@@ -19,3 +19,6 @@ Principais dados usados:
 - Endereço: R. Cap. Cassiano Ricardo de Toledo, 191 - Chácara Urbana, Jundiaí - SP
 
 Visual baseado no mockup aprovado "Soft Green Luxury".
+
+
+V10: seção de resultados reais adicionada, seção de tecnologia/clínica com fotos reais, telefone corrigido para (11) 92140-1031.
